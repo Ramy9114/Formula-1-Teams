@@ -9,7 +9,7 @@
 import Foundation
 
 class TableViewModel{
-    
+    // new modifications
     private var array: [Team]
     
     init(){
